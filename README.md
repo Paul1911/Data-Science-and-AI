@@ -15,4 +15,4 @@ This is a workbook a friend of mine was confronted with and asked me for tutorin
 
 ### Network Planning DHL Europe 
 
-This is a challenge from my Bachelors of International Aviation Managment
+This is a challenge from my Bachelors of International Aviation Managment. More to this tomorrow. 
